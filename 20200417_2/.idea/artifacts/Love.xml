@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Love亚">
+    <output-path>D:/JavaJAR</output-path>
+    <root id="archive" name="Love亚.jar">
+      <element id="module-output" name="20200417_2" />
+    </root>
+  </artifact>
+</component>
